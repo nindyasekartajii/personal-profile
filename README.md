@@ -1,16 +1,60 @@
-# React + Vite
+# 🌸 Nindya Sekartaji — Creative Designer & Frontend Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills in UI/UX design, frontend development, branding, and motion graphics. Built with React and Tailwind CSS, the site is fully responsive and designed to reflect my aesthetic and professional identity.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🎨 Clean and responsive layout based on Figma mockup
+- ⚡ Built with React + Tailwind CSS
+- 📱 Mobile-first design
+- 🧩 Modular components for maintainability
+- 📷 Optimized image loading
+- 💌 Contact form with social media integration
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📁 Project Structure
+src/
+├── assets/
+│   ├── images/        // gambar dari Figma
+│   └── fonts/         // font custom jika ada
+├── components/
+│   ├── Navbar.js
+│   ├── ProfileCard.js
+│   ├── AboutSection.js
+│   ├── SkillsSection.js
+│   └── Footer.js
+├── pages/
+│   └── Home.js
+├── App.js
+└── index.css
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** — Component-based frontend framework
+- **Tailwind CSS** — Utility-first styling
+- **Vite** — Fast build tool
+- **React Icons** — For social and skill icons
+
+---
+
+## 📬 Contact
+
+Feel free to reach out or collaborate!
+
+- 📧 Email: nindasekartaji@gmail.com  
+- 📱 Phone: +62 882-2617-1131  
+---
+
+## 🧠 Credits
+
+Built with ❤️ by Nindya Sekartaji  
+Based in Manhattan City  
+© 2025
+
+---
