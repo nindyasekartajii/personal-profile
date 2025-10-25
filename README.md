@@ -1,6 +1,6 @@
-# 🌸 Nindya Sekartaji — Creative Designer & Frontend Developer
+# 🎓 Tugas Front-End Development — Personal Profile
 
-Welcome to my personal portfolio website! This project showcases my skills in UI/UX design, frontend development, branding, and motion graphics. Built with React and Tailwind CSS, the site is fully responsive and designed to reflect my aesthetic and professional identity.
+Project ini merupakan implementasi slicing desain Figma ke React.js dengan Tailwind CSS, sesuai instruksi tugas mata kuliah Front-End Development. Website ini menampilkan profil personal dengan layout responsif, komponen modular, dan styling berbasis utility class.
 
 ---
 
@@ -47,15 +47,8 @@ src/
 
 Feel free to reach out or collaborate!
 
-- 📧 Email: nindasekartaji@gmail.com  
+- 📧 Email: nindiasekartaji@gmail.com  
 - 📱 Phone: +62 882-2617-1131  
----
-
-## 🧠 Credits
-
-Built with ❤️ by Nindya Sekartaji  
-Based in Manhattan City  
-© 2025
 
 ---
 
@@ -68,4 +61,10 @@ Based in Manhattan City
 ![Mobile View](./src/assets/images/view-mobile.png)
 
 ⚠️ Catatan:
-Project ini dimulai dari template dosen (Zaki Maliki) dan telah diinisialisasi ulang karena error pada konfigurasi Tailwind CSS. Semua struktur, komponen, dan desain telah dimodifikasi sesuai instruksi tugas dan referensi Figma yang dipilih. 
+Project ini dimulai dari template mentor (Zaki Maliki) dan telah diinisialisasi ulang karena error pada konfigurasi Tailwind CSS. Semua struktur, komponen, dan desain telah dimodifikasi sesuai instruksi tugas dan referensi Figma yang dipilih. 
+
+## 🧠 Credits
+
+Built with ❤️ by Nindya Sekartaji  
+Based in Manhattan City  
+© 2025
