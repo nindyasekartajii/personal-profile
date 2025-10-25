@@ -66,3 +66,6 @@ Based in Manhattan City
 
 ### 📱 Mobile View
 ![Mobile View](./src/assets/images/view-mobile.png)
+
+⚠️ Catatan:
+Project ini dimulai dari template dosen (Zaki Maliki) dan telah diinisialisasi ulang karena error pada konfigurasi Tailwind CSS. Semua struktur, komponen, dan desain telah dimodifikasi sesuai instruksi tugas dan referensi Figma yang dipilih. 
